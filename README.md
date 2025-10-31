@@ -57,7 +57,14 @@ Develop a multi-user project management application with authentication, entity 
 ---
 
 ### **Assignment 3 – Smart Scheduler API** (Linked to Mini Project Manager, +10 Credits)
-**Objective:**  
-Add an intelligent scheduling endpoint that automatically plans project tasks.
+## 🎯 Objective
 
-**Endpoint Example:**
+The Smart Scheduler API is an enhancement to the **Mini Project Manager** app.  
+It introduces an intelligent backend endpoint that automatically helps users plan and schedule their project tasks efficiently.
+
+This assignment demonstrates the candidate’s ability to:
+- Extend an existing full-stack application
+- Design and expose a custom RESTful endpoint
+- Work with JSON-based input/output
+- Provide meaningful feedback and user experience improvements
+
