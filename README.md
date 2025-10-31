@@ -1,7 +1,7 @@
 
 ---
 
-## 🧩 Overview of Assignments
+## Overview of Assignments
 
 ### **Assignment 1 – Basic Task Manager** (10 Credits)
 **Objective:**  
