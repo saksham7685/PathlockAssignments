@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G4bpRJdvWmu7UqxWHsPr3AGMEl1vEwkBFocPwEbnmIw=",
+  "Source": "WorkPlanner.API",
+  "BasePath": "_content/WorkPlanner.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
